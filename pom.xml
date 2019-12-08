@@ -38,7 +38,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>jar</goal>
+                            <goal>war</goal>
                         </goals>
                         <id>jar</id>
                     </execution>
