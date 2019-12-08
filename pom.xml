@@ -5,7 +5,7 @@
   <groupId>org.example</groupId>
   <artifactId>jpademo</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <scm>
       <connection>scm:git:ssh://my.git.server.internal/home/git/jpademo</connection>
